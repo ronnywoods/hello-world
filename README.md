@@ -1,4 +1,4 @@
-# hello-world, I'm Ronny
+# About Me
 
 I’m currently looking for my next challenge, so I suspect most viewers of this profile will be recruiters or potential employers; thus I've made a few of my recent applications public; I think each displays some facet about the kind of engineer and problem solver I am.
 
